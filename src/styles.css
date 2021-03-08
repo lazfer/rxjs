@@ -1,1 +1,18 @@
-/* You can add global styles to this file, and also import other style files */
+html {
+    background-color: #454545 ;
+    color: #aaa;
+}
+img {
+    border-radius: 5px;
+}
+ol{
+    text-align: left;
+}
+.progress-bar{
+    position: fixed;
+    top: 0;
+    left: 0;
+    height: 10px;
+    width: 0%;
+    background-color: #9834AA;
+}
